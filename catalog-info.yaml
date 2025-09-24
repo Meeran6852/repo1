@@ -14,7 +14,7 @@ metadata:
     confluence/page-id: "131074"
     sonarcloud.io/project-key: project-mdm-gdsn-ui
     argocd/app-name: python-test-app-1
-    github.com/project-slug: Meeran6852/repo1
+    github.com/project-slug: SyscoCorporation/dim-sysco-bootstrap-v2-python
     
 spec:
   type: service
