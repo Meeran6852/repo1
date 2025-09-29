@@ -15,6 +15,8 @@ metadata:
     sonarcloud.io/project-key: project-mdm-gdsn-ui
     argocd/app-name: python-test-app-1
     github.com/project-slug: SatyaCharanV-prodapt/AI-Project
+    concourse-ci.org/pipeline-name: dim-restful-microservice-template
+    concourse-ci.org/team-name: dim-platin
     
 spec:
   type: service
