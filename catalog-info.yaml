@@ -12,7 +12,7 @@ metadata:
     sonarqube.org/project-key: project-mdm-gdsn-ui
     jira.com/project-key: "DE"
     jira/project-key: DE
-    confluence/space-key: "BSE"
+    confluence/space-key: BSE
     jira.com/incoming-issues-status: "TO DO"
     confluence/page-id: "131074"
     sonarcloud.io/project-key: project-mdm-gdsn-ui
